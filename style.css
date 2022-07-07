@@ -50,7 +50,6 @@ img {
     .good2 {
         text-align: center;
         font-size: 0.8rem;
-        /* font-weight: lighter; */
     }
 
     .hero-text {
@@ -59,6 +58,9 @@ img {
 
     .button1 {
         justify-content: center !important;
+    }
+    .navlinks{
+        margin-left: 0 !important;
     }
 
 }
@@ -96,7 +98,6 @@ img {
 
     .button-order {
         text-align: center;
-        /* margin-right: 0 !important; */
     }
 
     .buttons i {
